@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @ksmadankumar
-- 👀 I’m interested in Automation Testing
-- 🌱 I’m currently learning Python Selenium
-- 💞️ I’m looking to collaborate on testing projects
-- 📫 reach me - ksmadankumar@gmail.com
+- 👋 Hi, I’m @Madankumar 
+- 👀 I’m interested in making software bug free.
+- 🌱 Good with selenium and Postman.
+- 📫 reach me - ksmadankumar@gmail.com.
 
 
