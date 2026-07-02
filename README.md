@@ -1,13 +1,13 @@
 # 👋 Hey, I'm Madankumar
 
-> **By day:** Software Tester
-> **By night:** AI explorer, vibe coder, and SaaS builder
+> By day:Software Tester
+> By night: AI explorer, vibe coder, and SaaS builder
 
-I'm passionate about **software testing, AI, and building products that solve real problems**.
+I'm passionate about software testing, AI, and building products that solve real problems.
 
-Currently working as a full-time tester at **Bugasura**, where I spend my days understanding applications, uncovering edge cases, and helping teams ship better software.
+Currently working as a full-time tester at Bugasura, where I spend my days understanding applications, uncovering edge cases, and helping teams ship better software.
 
-Outside work, you'll find me experimenting with **AI agents**, building small SaaS products, and exploring ideas that can help **testers and job seekers work smarter.**
+Outside work, you'll find me experimenting with AI agents, building small SaaS products, and exploring ideas that can help testers and job seekers work smarter.
 
 ---
 
